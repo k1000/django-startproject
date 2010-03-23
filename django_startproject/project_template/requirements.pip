@@ -10,3 +10,4 @@ django-staticfiles==0.2.0
 South==0.6.2
 Sphinx==0.6.5
 docutils
+-e git://fabfile.org/fabric.git@0.9#egg=fabric
