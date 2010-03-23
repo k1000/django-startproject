@@ -1,3 +1,7 @@
 Documentation is available in Sphinx format in the docs folder.
 
 For installation instructions see docs/install.rst.
+
+You can create a HTML version of these docs using the command:
+
+    python setup.py build_sphinx
