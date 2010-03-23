@@ -7,5 +7,6 @@
 django==1.1.1
 django-extensions==0.4.1
 django-staticfiles==0.2.0
-south==0.6
+South==0.6.2
+Sphinx==0.6.5
 docutils
